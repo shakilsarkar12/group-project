@@ -11,8 +11,7 @@ const Navbar = () => {
                 <NavLink to='/about'>About Me Md Yeasin Islam</NavLink>
                 <NavLink to='/'>Home</NavLink>
                 <NavLink to='/about'>About</NavLink>
-                <NavLink to='/contact'>Contact my name is tanmay</NavLink>
-                <NavLink to='/service'>Service</NavLink>
+                <NavLink to='/contact'>Contact</NavLink>
             </ul>
         </div>
     );
