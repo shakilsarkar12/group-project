@@ -9,6 +9,7 @@ const Navbar = () => {
             <ul className='navlink flex gap-4 text-xl font-semibold'>
                 <NavLink to='/'>Home</NavLink>
                 <NavLink to='/about'>About</NavLink>
+                <NavLink to='/about'>Tanmay Islam</NavLink>
             </ul>
         </div>
     );
