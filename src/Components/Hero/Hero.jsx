@@ -9,15 +9,7 @@ const Hero = () => {
             <img src="hero-image.jpg" alt="Hero" />
             <div className="hero-footer">   
                 <p>© 2023 Your Company</p>
-                <p>Follow us on social media</p>
-                <ul>
-                    <li><a href="https://twitter.com">Twitter</a></li>
-                    <li><a href="https://facebook.com">Facebook</a></li>
-                    <li><a href="https://instagram.com">Instagram</a></li>
-                    <li><a href="https://linkedin.com">LinkedIn</a></li>
-                    <li><a href="https://youtube.com">YouTube</a></li>
-                    <li><a href="https://github.com">GitHub</a></li>
-                </ul>
+                <p>Follow us on social media tanmay islam </p>
             </div>
         </section>
     );
