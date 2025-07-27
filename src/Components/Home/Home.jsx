@@ -6,6 +6,8 @@ const Home = () => {
             <h1 className='text-5xl'>Home Edited</h1>
             <h1>Tanmay Islam</h1>
             <h1>md shakil</h1>
+            <h1>Md Yeasin Islam</h1>
+            <p>From WUB</p>
 
         </div>
     );
